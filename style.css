@@ -211,7 +211,7 @@ img {
   justify-content: center;
   text-align: center;
   background-color: #1A1A1A;
-  background-image: url('images/Hero-BG.jpeg');
+  background-image: url('../images/Hero-BG.jpeg');
   background-size: cover;
   background-position: center;
   padding: 100px 20px 60px;
@@ -596,7 +596,7 @@ text-align: center;
   padding: 90px 0;
 background-color: #BEB8AE;
   text-align: center;
-  background-image: url('images/About-BG.jpeg');
+  background-image: url('../images/About-BG.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
 }
